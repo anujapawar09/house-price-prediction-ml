@@ -12,7 +12,7 @@
 
 ## 🔗 Live Demo
 
-👉 **[Click here to try the app](https://your-app-link.streamlit.app)**
+👉 **[Click here to try the app]https://(house-price-prediction-ml-abvkn7u87dvvrnpsiebdgz.streamlit.app/)**
 > *(Replace with your Streamlit Cloud link after deployment)*
 
 ---
