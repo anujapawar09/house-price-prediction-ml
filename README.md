@@ -16,14 +16,6 @@
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](<img width="1920" height="865" alt="screenshot png" src="https://github.com/user-attachments/assets/9c9e7c18-15e6-4393-b66d-1bfd959277c6" />
-)
-
-
----
-
 ## 🧠 How It Works
 
 ```
