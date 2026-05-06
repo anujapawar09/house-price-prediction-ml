@@ -12,15 +12,15 @@
 
 ## 🔗 Live Demo
 
-👉 **[Click here to try the app]https://(house-price-prediction-ml-abvkn7u87dvvrnpsiebdgz.streamlit.app/)**
-> *(Replace with your Streamlit Cloud link after deployment)*
+👉 **[Click here to try the app](https://house-price-prediction-ml-abvkn7u87dvvrnpsiebdgz.streamlit.app/)**
 
 ---
 
 ## 📸 Preview
 
-![App Screenshot](screenshot.png)
-> *(Add a screenshot of your app here)*
+![App Screenshot](<img width="1920" height="865" alt="screenshot png" src="https://github.com/user-attachments/assets/9c9e7c18-15e6-4393-b66d-1bfd959277c6" />
+)
+
 
 ---
 
